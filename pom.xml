@@ -4,10 +4,10 @@
 
     <groupId>com.massivecraft</groupId>
     <artifactId>Factions</artifactId>
-    <version>1.6.9.5-U0.2.1-RC-1.6.2-RC</version>
+    <version>1.6.9.5-U0.2.1-SF-1.6.2-SF</version>
     <packaging>jar</packaging>
 
-    <name>SavageFactions</name>
+    <name>Factions</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -28,7 +28,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.5.1</version>
+                <version>3.5.1SF</version>
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
